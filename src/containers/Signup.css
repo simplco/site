@@ -1,0 +1,60 @@
+/* Create two equal columns that floats next to each other */
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  padding-top: 80px
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+.column1 {
+  background-color: White;
+  text-align: center;
+  height: 100px;
+  font-family: Gilroy-light;
+  color: black;
+}
+
+.column1 a{
+  font-family: Gilroy-light;
+  font-size: 30px;
+  color: black;
+}
+
+.column2 {
+  background-color: gray;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  font-family: Gilroy-light;
+  color: black;
+}
+
+
+.column2a {
+  padding-top: 20px;
+  padding-left: 20px;
+  background-color: 	#E8E8E8;
+
+  height: 100px;
+  font-family: Gilroy-light;
+  color: black;
+}
+
+.column2b {
+  background-color: 	#E8E8E8;
+
+  height: 100px;
+  padding-top: 10px;
+  padding-left: 20px;
+  font-family: Gilroy-light;
+  color: black;
+}
+ 

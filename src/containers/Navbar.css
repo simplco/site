@@ -1,0 +1,34 @@
+/* Add a black background color to the top navigation */
+.Navbar {
+    
+    background-color: #000;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .Navbar a {
+    display: flex;
+    align-items: flex-end;
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .Navbar b {
+    display: flex;
+    align-items: flex-end;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    font-size: 30px;
+  }
+
+
+
+
+  

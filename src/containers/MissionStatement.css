@@ -1,0 +1,12 @@
+.MissionStatement{
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-left: 90px;
+  }
+  .MissionStatement p {
+    color: #f2f2f2;
+    text-align: left;
+    text-decoration: none;
+    font-size: 60px;
+  }
