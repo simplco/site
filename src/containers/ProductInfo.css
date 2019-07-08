@@ -1,0 +1,18 @@
+.ProductInfo {
+    width: 80%;
+    padding-left: 90px;
+    padding-top: 40px;
+    display: flex;
+    float: left;
+    background-color: #000;
+  }
+  .ProductInfo1 {
+    padding-right: 11%;
+  }
+  .ProductInfo > div {
+    background-color: #000;
+    width: 40%;
+    margin: 10px;
+    text-align: left;
+    font-size: 15px;
+  }
